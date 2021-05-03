@@ -1,1 +1,1 @@
-# Kaggle-Competition-Computer-Vision
+# Kaggle-Competition-Computer-Vision-AMMI
